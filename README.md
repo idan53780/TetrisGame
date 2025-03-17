@@ -21,7 +21,7 @@ used by this guide: https://www.youtube.com/watch?v=jcUctrLC-7M&ab_channel=OttoB
 
 ## 💾 Installation
 download the setup folder and install the exe file * inside the folder *
-you can find the setup folder inside the publish folder
+- you can find the setup folder inside bin / debug folder
 
 
 ### 🧑‍💻 CODE 
